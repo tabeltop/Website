@@ -1,1 +1,2 @@
 8/20/24 - TAbel - Initalized htmml and history file
+9/16/24 - TAbel - Added work experience sections
