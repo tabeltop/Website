@@ -1,2 +1,3 @@
-8/20/24 - TAbel - Initalized htmml and history file
-9/16/24 - TAbel - Added work experience sections
+8/20/24 - TAbel - Initalized htmml and history file.
+9/16/24 - TAbel - Added work experience sections.
+9/17/24 - TAbel - Update titles to Website instead of Blog. Added Skills & Technologies and Blog sections.
